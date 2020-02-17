@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Bug Bounty Program
 
-You can use the [editor on GitHub](https://github.com/Edward-Frankestein/Bug-Bounty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can learn all about the Bug Bounty Program. We will start from very Beginng.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
